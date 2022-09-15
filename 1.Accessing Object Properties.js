@@ -14,3 +14,4 @@ let Cars = {
 console.log(Cars);//{ Maruti: 'Ciaz', Hyundai: 'Verna', Honda: 'City' }
 console.log(Cars.Hyundai);//Verna
 console.log(Cars["Honda"]);//City
+
