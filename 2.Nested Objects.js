@@ -31,4 +31,8 @@ console.log(veichiles);//{
     //bikes: { bajaj: 'pulsar', tvs: 'apache' }}
     console.log(veichiles.car2);//Aulto
     console.log(veichiles["bikes"]);//{ bajaj: 'pulsar', tvs: 'apache' }
+
+
+    
   
+
