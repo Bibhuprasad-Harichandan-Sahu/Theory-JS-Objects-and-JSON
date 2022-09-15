@@ -6,7 +6,7 @@ const person = {
     greet: function() { console.log('The name is' + ' ' + this.name); }
 };
 
-person.greet();
+person.greet();//The name is John
 
 
 
@@ -16,7 +16,7 @@ let Hero = {
     greet : function() {console.log("i am" + ' ' + this.name); }
 
 }
-Hero.greet();
+Hero.greet();//i am Tonystark
 
 
 let human = {
