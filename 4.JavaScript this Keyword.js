@@ -17,3 +17,16 @@ let Hero = {
 
 }
 Hero.greet();
+
+
+let human = {
+    firstname : 'Bibhu',
+    lastname : 'prasad',
+     age : 34,
+     address : 'Odisha',
+     fullname : function fullname(){
+        return this.firstname + ' ' + this.lastname
+
+     }
+};
+console.log(human.fullname());//Bibhu prasad
